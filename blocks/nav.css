@@ -24,4 +24,11 @@
 }
 
 .nav__link {
+  text-decoration: none;
+  color: black;
+  transition: opacity 0.25s ease;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }

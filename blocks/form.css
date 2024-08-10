@@ -51,6 +51,7 @@
   color: #fff;
   background-color: #1878dc;
   transition-property: background-color;
+  transition: background-color 0.25s ease;
 }
 
 .form__button:hover {

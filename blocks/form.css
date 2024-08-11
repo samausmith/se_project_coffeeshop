@@ -10,7 +10,7 @@
   border: 1px solid #838383;
   margin: 8px 0 32px;
   border-radius: 4px;
-  font-family: Inter, "Time New Roman", sans-serif;
+  font-family: Inter, "Arial", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -62,11 +62,6 @@
   display: flex;
   gap: 12px;
   justify-content: center;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
   color: #000;
 }
 .form_checkbox {

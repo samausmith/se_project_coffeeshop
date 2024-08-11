@@ -7,7 +7,6 @@
     <meta name="author" content="Samuel Goldsmith" />
     <meta name="keywords" content="HTML, CSS" />
     <link rel="stylesheet" href="pages/index.css" />
-    <link rel="stylesheet" href="vendor/normalize.css" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -109,6 +108,7 @@
                   id="name-input"
                   type="text"
                   placeholder="Name Surname"
+                  required
                   class="form__input"
                 />
               </label>
@@ -250,7 +250,7 @@
             </p>
           </div>
           <div class="about__circle"></div>
-          <div class="about__circle_animation_blurred"></div>
+          <div class="about__circle about__circle_animation_blurred"></div>
         </section>
       </main>
       <footer class="footer">
@@ -267,7 +267,7 @@
                 <img
                   src="./images/facebook_white.svg"
                   alt="Facebook icon"
-                  class="footer__social__icon"
+                  class="footer__social-icon"
                 />
                 <a href="" class="footer__social-link">Facebook</a>
               </li>
@@ -275,7 +275,7 @@
                 <img
                   src="./images/instagram_white.svg"
                   alt="Instagram icon"
-                  class="footer__social__icon"
+                  class="footer__social-icon"
                 />
                 <a href="" class="footer__social-link">Instagram</a>
               </li>

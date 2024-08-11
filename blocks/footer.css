@@ -10,7 +10,7 @@
   justify-content: space-between;
 }
 
-.footer_logo {
+.footer__logo {
   margin: 0;
   padding: 0;
   width: 105px;
@@ -26,7 +26,7 @@
 }
 
 .footer__social-heading {
-  font-family: "Inter";
+  font-family: "Inter", "Arial", serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -36,7 +36,7 @@
 }
 
 .footer__list {
-  font-family: "Inter";
+  font-family: "Inter", "Arial", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -56,7 +56,7 @@
   margin-bottom: 0;
 }
 
-.footer__social__icon {
+.footer__social-icon {
   margin: 0;
   padding: 0;
   padding-right: 10px;
@@ -76,7 +76,7 @@
 }
 
 .footer__copyright {
-  font-family: "Inter";
+  font-family: "Inter", "Arial", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

@@ -13,8 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :
-
 - Add an online order section, which orders are customizable
 - Add 'toppings & flavors' to the menu
 - Add a calendar section for events
@@ -23,3 +21,6 @@ Add your ideas here :
 - Add a section for careers
 - Add a section for contact information
 - Add a section for the company's mission
+
+## URL
+https://samausmith.github.io/se_project_coffeeshop/
